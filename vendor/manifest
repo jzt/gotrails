@@ -1,0 +1,41 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/golang/geo/r1",
+			"repository": "https://github.com/golang/geo",
+			"vcs": "git",
+			"revision": "f819552e7195873dbc628554929703291cecbea0",
+			"branch": "master",
+			"path": "r1",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/golang/geo/r2",
+			"repository": "https://github.com/golang/geo",
+			"vcs": "git",
+			"revision": "f819552e7195873dbc628554929703291cecbea0",
+			"branch": "master",
+			"path": "/r2",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/golang/geo/r3",
+			"repository": "https://github.com/golang/geo",
+			"vcs": "git",
+			"revision": "f819552e7195873dbc628554929703291cecbea0",
+			"branch": "master",
+			"path": "/r3",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/golang/geo/s1",
+			"repository": "https://github.com/golang/geo",
+			"vcs": "git",
+			"revision": "f819552e7195873dbc628554929703291cecbea0",
+			"branch": "master",
+			"path": "s1",
+			"notests": true
+		}
+	]
+}
